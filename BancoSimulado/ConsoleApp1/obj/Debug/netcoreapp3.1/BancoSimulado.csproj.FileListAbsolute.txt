@@ -1,0 +1,13 @@
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoSimulado.exe
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoSimulado.deps.json
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoSimulado.runtimeconfig.json
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoSimulado.runtimeconfig.dev.json
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoSimulado.dll
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\bin\Debug\netcoreapp3.1\BancoSimulado.pdb
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoSimulado.AssemblyInfoInputs.cache
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoSimulado.AssemblyInfo.cs
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoSimulado.csproj.CoreCompileInputs.cache
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoSimulado.dll
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoSimulado.pdb
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoSimulado.genruntimeconfig.cache
+C:\Users\kancerbero\source\repos\BancoSimulado\ConsoleApp1\obj\Debug\netcoreapp3.1\BancoSimulado.csprojAssemblyReference.cache

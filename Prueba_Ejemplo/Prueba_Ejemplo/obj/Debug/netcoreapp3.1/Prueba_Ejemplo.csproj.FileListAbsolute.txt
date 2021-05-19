@@ -1,0 +1,13 @@
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\bin\Debug\netcoreapp3.1\Prueba_Ejemplo.exe
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\bin\Debug\netcoreapp3.1\Prueba_Ejemplo.deps.json
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\bin\Debug\netcoreapp3.1\Prueba_Ejemplo.runtimeconfig.json
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\bin\Debug\netcoreapp3.1\Prueba_Ejemplo.runtimeconfig.dev.json
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\bin\Debug\netcoreapp3.1\Prueba_Ejemplo.dll
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\bin\Debug\netcoreapp3.1\Prueba_Ejemplo.pdb
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\obj\Debug\netcoreapp3.1\Prueba_Ejemplo.csprojAssemblyReference.cache
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\obj\Debug\netcoreapp3.1\Prueba_Ejemplo.AssemblyInfoInputs.cache
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\obj\Debug\netcoreapp3.1\Prueba_Ejemplo.AssemblyInfo.cs
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\obj\Debug\netcoreapp3.1\Prueba_Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\obj\Debug\netcoreapp3.1\Prueba_Ejemplo.dll
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\obj\Debug\netcoreapp3.1\Prueba_Ejemplo.pdb
+C:\Users\kancerbero\source\repos\Prueba_Ejemplo\Prueba_Ejemplo\obj\Debug\netcoreapp3.1\Prueba_Ejemplo.genruntimeconfig.cache
