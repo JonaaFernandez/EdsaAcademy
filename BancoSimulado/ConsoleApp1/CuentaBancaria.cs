@@ -71,10 +71,10 @@ namespace BancoSimulado
             var reporte = new StringBuilder();
         
             //HEADER DE LA TABLA
-            reporte.AppendLine("FECHA\t\tMONTO\t\tDESCRIPCION");
+            reporte.AppendLine("\tFECHA\t\tMONTO\t\tDESCRIPCION");
             foreach (var transaccion in TodasLasTransacciones){
                 //FILAS DE LA TABLA
-                reporte.AppendLine($"\n{transaccion.Fecha.ToShortDateString()}\t{"$" + transaccion.Monto}\t\t{transaccion.Descripccion}");
+                reporte.AppendLine($"\n \t{transaccion.Fecha.ToShortDateString()}\t{"$" + transaccion.Monto}\t\t{transaccion.Descripccion}");
             }
             return reporte.ToString();
        

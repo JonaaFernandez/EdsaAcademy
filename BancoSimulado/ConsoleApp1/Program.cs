@@ -7,7 +7,7 @@ namespace BancoSimulado
         static void Main(string[] args)
         {
             var CuentaNueva = new CuentaBancaria("Fernandez", "Jonatan", 20000);
-            Console.WriteLine($"La cuenta Nro: {CuentaNueva.NumeroDeCuenta} fue creada por el Sr/Sra: {CuentaNueva.ApellidoCliente} {CuentaNueva.NombreCliente} con un total de ${CuentaNueva.Balance} como monto incial.");
+            Console.WriteLine($"\tLa cuenta Nro: {CuentaNueva.NumeroDeCuenta} fue creada por el Sr/Sra: {CuentaNueva.ApellidoCliente} {CuentaNueva.NombreCliente} \n\tMonto Inicial:  ${ CuentaNueva.Balance}.");
 
 
             CuentaNueva.RealizarRetiro(5100, DateTime.Now, "3 Kg Asado, 1 Rosca chorizo, 2 Kg Pan");
@@ -20,7 +20,8 @@ namespace BancoSimulado
            // Console.WriteLine(CuentaNueva.Balance);
            
             Console.WriteLine("\n" + CuentaNueva.HistorialDeCuenta());
-            Console.WriteLine("\t\t\t MUCHAS GRACIAS POR SER PARTE DE BANCO SIMULADO COMPANY.");
+            Console.WriteLine("\n\t\t\t MUCHAS GRACIAS POR SER PARTE DE BANCO SIMULADO COMPANY.");
+            Console.WriteLine("\n\n");
 
             // TEST para que el balance INICIAL sea POSITIVO.
 
